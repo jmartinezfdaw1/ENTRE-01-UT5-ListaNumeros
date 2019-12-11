@@ -26,7 +26,7 @@ public class ListaNumeros
         if (n > TAM_LISTA) {
             throw new IllegalArgumentException("Valor no permitido para tamaño lista");
         }
-        // completar
+        int[] numeros = new int[n];
     }
 
     /**
